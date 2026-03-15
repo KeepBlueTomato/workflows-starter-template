@@ -4,7 +4,8 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "workflows-starter-template",
+	"name": "// wrangler.jsonc
+"name": "qtomato",",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-10-08",
 	"assets": {

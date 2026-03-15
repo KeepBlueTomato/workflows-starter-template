@@ -5,7 +5,8 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "// wrangler.jsonc
-"name": "workflows-starter-template",",
+"name": "// wrangler.jsonc
+"name": "frosty-snow-2404",",",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-10-08",
 	"assets": {

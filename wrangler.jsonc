@@ -5,7 +5,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "// wrangler.jsonc
-"name": "// //: "workflows-starter-template",
 "name": "workflows-starter-template",
 "name": "frosty-snow-2404",",",
 	"main": "worker/index.ts",
